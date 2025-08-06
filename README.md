@@ -1,6 +1,6 @@
 # Group5Automated-package-system-update
 Creating Automated Package system update to check the updating and upgrading is working
-https://github.com/Godfred901/Automated-package-update-system-Group-Five.git
+https://github.com/Godfred901/Group5Automated-package-system-update.git
  Creating the Update Script: update_system.sh
 This script will update the system, log the results, and handle errors. You can include the following in your script:
 
